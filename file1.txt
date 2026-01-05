@@ -4,3 +4,5 @@ Khan
 
 Devops
 class
+
+Practice using the Vs code 
